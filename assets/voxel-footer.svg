@@ -1,0 +1,67 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated voxel skyline footer</title>
+  <desc id="desc">A calm neon skyline with moving clouds, glowing rails, and tiny builders closing the scene.</desc>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11190E"/>
+      <stop offset="0.48" stop-color="#0A2027"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="footerNeon" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE66D"/>
+      <stop offset="0.5" stop-color="#00FFA3"/>
+      <stop offset="1" stop-color="#00D4FF"/>
+    </linearGradient>
+    <filter id="footerGlow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="210" rx="24" fill="url(#footerBg)"/>
+  <path d="M0 156C130 128 245 162 354 135C461 109 571 77 690 104C825 135 932 179 1200 116V210H0V156Z" fill="#071015"/>
+  <path d="M0 156C130 128 245 162 354 135C461 109 571 77 690 104C825 135 932 179 1200 116" stroke="url(#footerNeon)" stroke-width="4" filter="url(#footerGlow)">
+    <animate attributeName="stroke-dasharray" values="18 18;70 18;18 18" dur="6.5s" repeatCount="indefinite"/>
+  </path>
+
+  <g opacity="0.72">
+    <g>
+      <rect x="60" y="58" width="132" height="26" rx="13" fill="#D6F7FF" opacity="0.14"/>
+      <rect x="126" y="40" width="118" height="26" rx="13" fill="#D6F7FF" opacity="0.12"/>
+      <animateTransform attributeName="transform" type="translate" values="-90 0;78 0;-90 0" dur="22s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="780" y="72" width="138" height="24" rx="12" fill="#D6F7FF" opacity="0.12"/>
+      <rect x="860" y="50" width="104" height="24" rx="12" fill="#D6F7FF" opacity="0.16"/>
+      <animateTransform attributeName="transform" type="translate" values="80 0;-100 0;80 0" dur="24s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(184 130)">
+    <rect x="0" y="28" width="54" height="44" fill="#112D34" stroke="#00D4FF"/>
+    <rect x="54" y="8" width="54" height="64" fill="#142F2A" stroke="#00FFA3"/>
+    <rect x="108" y="-18" width="54" height="90" fill="#1E2A20" stroke="#FFE66D"/>
+  </g>
+  <g transform="translate(858 126)">
+    <rect x="0" y="24" width="52" height="50" fill="#1E2A20" stroke="#FFE66D"/>
+    <rect x="52" y="-2" width="52" height="76" fill="#112D34" stroke="#00D4FF"/>
+    <rect x="104" y="34" width="52" height="40" fill="#142F2A" stroke="#00FFA3"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <g transform="translate(488 155)">
+      <rect x="0" y="14" width="24" height="22" rx="3" fill="#00FFA3"/>
+      <rect x="5" y="0" width="14" height="14" rx="4" fill="#FFE66D"/>
+      <rect x="5" y="36" width="6" height="17" fill="#E6EDF3"/>
+      <rect x="15" y="36" width="6" height="17" fill="#E6EDF3"/>
+      <rect x="36" y="24" width="26" height="18" rx="3" fill="#00D4FF"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="-160 0;360 0;-160 0" dur="15s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="600" y="98" fill="#E6EDF3" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="26" font-weight="800">Let's build something intelligent.</text>
+  <text x="600" y="128" fill="#AFC1C7" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15">Full-stack systems, AI workflows, cloud delivery, and clean product execution.</text>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00D4FF,45:00FFA3,100:FFE66D&text=Mayur%20Bagade&fontAlign=50&fontAlignY=38&fontColor=0B1117&fontSize=58&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SaaS%20Engineer&descAlign=50&descAlignY=58&descSize=18" alt="Mayur Bagade banner" width="100%" />
+<img src="./assets/voxel-header.svg" alt="Animated voxel world header for Mayur Bagade" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Workflow+Builder;SaaS+Product+Engineer;Cloud-Ready+Web+Architect" alt="Animated typing headline" width="100%" />
 
@@ -219,11 +219,7 @@ const mayur = {
 <br />
 <br />
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurbagade456/mayurbagade456/output/github-contribution-grid-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayurbagade456/mayurbagade456/output/github-contribution-grid-snake.svg" />
-	<img src="https://raw.githubusercontent.com/mayurbagade456/mayurbagade456/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
-</picture>
+<img src="./assets/contribution-forge.svg" alt="Animated contribution forge with builders moving blocks" width="100%" />
 
 </div>
 
@@ -286,6 +282,6 @@ I am interested in full-stack products, AI-enabled workflows, SaaS platforms, an
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4FF,45:00FFA3,100:FFE66D" alt="Footer wave" width="100%" />
+<img src="./assets/voxel-footer.svg" alt="Animated voxel skyline footer" width="100%" />
 
 </div>

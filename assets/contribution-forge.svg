@@ -1,0 +1,78 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated contribution forge</title>
+  <desc id="desc">A futuristic contribution lane where builders move glowing blocks across a development forge.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070C13"/>
+      <stop offset="0.5" stop-color="#0A2027"/>
+      <stop offset="1" stop-color="#11190E"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="0.45" stop-color="#00FFA3"/>
+      <stop offset="1" stop-color="#FFE66D"/>
+    </linearGradient>
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <path d="M52 204H1148" stroke="url(#rail)" stroke-width="4" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" values="16 26;52 16;16 26" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <g opacity="0.5">
+    <rect x="120" y="64" width="92" height="92" rx="8" stroke="#00D4FF"/>
+    <rect x="998" y="70" width="74" height="74" rx="8" stroke="#FFE66D"/>
+    <rect x="270" y="46" width="42" height="42" rx="6" stroke="#00FFA3"/>
+    <rect x="890" y="32" width="42" height="42" rx="6" stroke="#00D4FF"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="600" cy="122" r="58" stroke="url(#rail)" stroke-width="5" opacity="0.9">
+      <animate attributeName="r" values="48;66;48" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="600" y="113" fill="#FFFFFF" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="800">BUILD</text>
+    <text x="600" y="143" fill="#00FFA3" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="700">SHIP LOOP</text>
+  </g>
+
+  <g transform="translate(0 0)">
+    <g transform="translate(110 164)">
+      <rect x="0" y="16" width="30" height="26" rx="4" fill="#00D4FF"/>
+      <rect x="6" y="0" width="18" height="18" rx="5" fill="#FFE66D"/>
+      <rect x="7" y="42" width="7" height="22" fill="#DDEBFF"/>
+      <rect x="20" y="42" width="7" height="22" fill="#DDEBFF"/>
+      <rect x="44" y="26" width="34" height="28" rx="4" fill="#00FFA3"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="-110 0;980 0;-110 0" dur="12s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <g transform="translate(920 160)">
+      <rect x="0" y="18" width="34" height="28" rx="4" fill="#FFE66D"/>
+      <rect x="8" y="0" width="18" height="18" rx="5" fill="#00FFA3"/>
+      <rect x="7" y="46" width="8" height="20" fill="#DDEBFF"/>
+      <rect x="21" y="46" width="8" height="20" fill="#DDEBFF"/>
+      <rect x="-50" y="30" width="36" height="24" rx="4" fill="#00D4FF"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="130 0;-930 0;130 0" dur="14s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <rect x="165" y="198" width="26" height="26" rx="4" fill="#00FFA3"><animate attributeName="y" values="198;186;198" dur="2.2s" repeatCount="indefinite"/></rect>
+    <rect x="260" y="198" width="26" height="26" rx="4" fill="#00D4FF"><animate attributeName="y" values="198;182;198" dur="2.8s" repeatCount="indefinite"/></rect>
+    <rect x="356" y="198" width="26" height="26" rx="4" fill="#FFE66D"><animate attributeName="y" values="198;188;198" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="808" y="198" width="26" height="26" rx="4" fill="#00FFA3"><animate attributeName="y" values="198;184;198" dur="2.6s" repeatCount="indefinite"/></rect>
+    <rect x="905" y="198" width="26" height="26" rx="4" fill="#00D4FF"><animate attributeName="y" values="198;188;198" dur="2.1s" repeatCount="indefinite"/></rect>
+    <rect x="1000" y="198" width="26" height="26" rx="4" fill="#FFE66D"><animate attributeName="y" values="198;183;198" dur="2.9s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <text x="600" y="42" fill="#E6EDF3" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="24" font-weight="800">contribution forge</text>
+  <text x="600" y="70" fill="#AFC1C7" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15">turning ideas into commits, systems, demos, and shipped products</text>
+</svg>

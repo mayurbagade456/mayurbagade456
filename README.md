@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00D4FF,45:00FFA3,100:FFE66D&text=Mayur%20Bagade&fontAlign=50&fontAlignY=38&fontColor=0B1117&fontSize=58&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SaaS%20Engineer&descAlign=50&descAlignY=58&descSize=18" alt="Mayur Bagade banner" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Workflow+Builder;SaaS+Product+Engineer;Cloud-Ready+Web+Architect" alt="Animated typing headline" width="100%" />
+
 ### Building full-stack products with AI, cloud, and modern web craft
 
 I create polished web platforms that connect beautiful frontends, reliable backend systems, intelligent AI workflows, and production-ready cloud tooling.
@@ -19,6 +21,8 @@ I create polished web platforms that connect beautiful frontends, reliable backe
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mayurbagade456&style=for-the-badge&color=00d4ff)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D4FF,50:00FFA3,100:FFE66D" alt="animated neon divider" width="100%" />
 
 </div>
 
@@ -78,6 +82,12 @@ const mayur = {
 ---
 
 ## Featured Builds
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=2600&pause=900&color=00FFA3&center=true&vCenter=true&width=850&lines=AI+interviews+that+talk+back;Resume+analysis+with+real+signals;Video+SaaS+with+cloud+delivery;Dashboards+that+think+with+Gemini" alt="Animated featured builds ticker" width="100%" />
+
+</div>
 
 <table>
 	<tr>
@@ -184,18 +194,48 @@ const mayur = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayurbagade456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1117&title_color=00D4FF&icon_color=00FFA3&text_color=E6EDF3" alt="Mayur's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurbagade456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1117&title_color=00D4FF&text_color=E6EDF3" alt="Mayur's top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurbagade456&theme=github_dark" alt="Mayur's GitHub profile summary" width="100%" />
 
 <br />
 
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurbagade456&theme=github_dark" alt="Repositories by language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurbagade456&theme=github_dark&utcOffset=5.5" alt="Productive coding time" />
+
+<br />
+<br />
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurbagade456&theme=tokyonight&hide_border=true&background=0B1117&ring=00D4FF&fire=FFE66D&currStreakLabel=00FFA3" alt="GitHub streak stats" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FFE66D,45:00FFA3,100:00D4FF" alt="animated stats divider" width="100%" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=850&lines=Contribution+engine+warming+up;Daily+builds+turn+into+visible+momentum;The+graph+keeps+moving+while+the+products+ship" alt="Animated contribution headline" width="100%" />
+
+<br />
+<br />
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurbagade456/mayurbagade456/output/github-contribution-grid-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayurbagade456/mayurbagade456/output/github-contribution-grid-snake.svg" />
+	<img src="https://raw.githubusercontent.com/mayurbagade456/mayurbagade456/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+</picture>
 
 </div>
 
 ---
 
 ## Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2400&pause=650&color=FFE66D&center=true&vCenter=true&width=850&lines=Frontend+systems+with+motion;AI+voice+agents+and+evaluations;SaaS+auth%2C+payments%2C+dashboards;Cloud+delivery+that+scales" alt="Animated current focus" width="100%" />
+
+</div>
 
 ```mermaid
 mindmap

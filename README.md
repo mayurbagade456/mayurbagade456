@@ -2,11 +2,11 @@
 
 <img src="./assets/voxel-header.svg" alt="Animated voxel world header for Mayur Bagade" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Workflow+Builder;SaaS+Product+Engineer;Cloud-Ready+Web+Architect" alt="Animated typing headline" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Workflow+Builder;SaaS+Product+Engineer;DevSecOps+Tool+Builder;Cloud-Ready+Web+Architect" alt="Animated typing headline" width="100%" />
 
 ### Building full-stack products with AI, cloud, and modern web craft
 
-I create polished web platforms that connect beautiful frontends, reliable backend systems, intelligent AI workflows, and production-ready cloud tooling.
+I create polished web platforms that connect beautiful frontends, reliable backend systems, intelligent AI workflows, developer security tooling, and production-ready cloud delivery.
 
 <p>
 	<a href="https://github.com/mayurbagade456?tab=repositories">
@@ -33,17 +33,19 @@ I create polished web platforms that connect beautiful frontends, reliable backe
 ```ts
 const mayur = {
 	role: "Full-Stack Developer",
-	focus: ["AI integrations", "SaaS products", "Cloud-ready web apps"],
+	focus: ["AI integrations", "SaaS products", "Developer security tooling", "Cloud-ready web apps"],
 	frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "GSAP"],
-	backend: ["Node.js", "Python", "Supabase", "Mongoose", "Stripe"],
-	currentlyBuilding: "AI-powered full-stack experiences",
+	backend: ["Node.js", "Express", "Python", "Supabase", "Mongoose", "Stripe"],
+	tooling: ["Docker", "GitHub Actions", "SARIF", "npm publishing"],
+	currentlyBuilding: "KONTROL - open-source Dockerfile security audits for dashboards and CI pipelines",
 	mindset: "Ship useful products with clean UX and solid engineering"
 };
 ```
 
 - Full-stack web development with modern frontend and backend architecture
 - AI/ML integrations using tools like Vapi AI, Gemini AI, and custom evaluation flows
-- Cloud-first product delivery with Vercel, Bunny.net, Arcjet, and automation tools
+- Developer security tooling: rule-driven scanners, CI gates, SARIF reporting, and published CLIs
+- Cloud-first product delivery with Vercel, Render, Bunny.net, Arcjet, and automation tools
 - Practical SaaS systems including authentication, payments, video processing, and dashboards
 
 ---
@@ -58,21 +60,32 @@ const mayur = {
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![GSAP](https://img.shields.io/badge/GSAP-111827?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![MongoDB](https://img.shields.io/badge/Mongoose-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Stripe](https://img.shields.io/badge/Stripe-111827?style=for-the-badge&logo=stripe&logoColor=635BFF)
+
+### DevSecOps & Tooling
+
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![SARIF](https://img.shields.io/badge/SARIF-111827?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm%20Publisher-111827?style=for-the-badge&logo=npm&logoColor=CB3837)
+![CodeQL](https://img.shields.io/badge/CodeQL-111827?style=for-the-badge&logo=github&logoColor=00D4FF)
 
 ### AI, Cloud & Product Systems
 
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 ![Vapi AI](https://img.shields.io/badge/Vapi%20AI-111827?style=for-the-badge&logo=voiceflow&logoColor=00FFA3)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
 ![Bunny.net](https://img.shields.io/badge/Bunny.net-111827?style=for-the-badge&logo=bunnydotnet&logoColor=FF6600)
 ![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge&logo=ansible&logoColor=EE0000)
 ![Auth](https://img.shields.io/badge/Authentication-111827?style=for-the-badge&logo=auth0&logoColor=EB5424)
@@ -85,12 +98,27 @@ const mayur = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=2600&pause=900&color=00FFA3&center=true&vCenter=true&width=850&lines=AI+interviews+that+talk+back;Resume+analysis+with+real+signals;Video+SaaS+with+cloud+delivery;Dashboards+that+think+with+Gemini" alt="Animated featured builds ticker" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=2600&pause=900&color=00FFA3&center=true&vCenter=true&width=850&lines=Dockerfile+audits+that+gate+your+pipeline;AI+interviews+that+talk+back;Resume+analysis+with+real+signals;Video+SaaS+with+cloud+delivery;Dashboards+that+think+with+Gemini" alt="Animated featured builds ticker" width="100%" />
 
 </div>
 
 <table>
 	<tr>
+		<td width="50%">
+			<h3>KONTROL</h3>
+			<p>Open-source Dockerfile security audit. Dashboard, CLI, HTTP API, and GitHub Action on one shared rule engine.</p>
+			<p><b>Stack:</b> Node.js, Express, React, Vite, Tailwind</p>
+			<ul>
+				<li>Scores Dockerfiles 0-100 with exact remediations</li>
+				<li>JSON, Markdown, and SARIF output for CI gates</li>
+				<li>Published on npm as <code>kontrol-audit</code></li>
+			</ul>
+			<p>
+				<a href="https://kontrol-inky.vercel.app/">Live demo</a> &middot;
+				<a href="https://github.com/mayurbagade456/kontrol">Source</a> &middot;
+				<a href="https://www.npmjs.com/package/kontrol-audit">npm</a>
+			</p>
+		</td>
 		<td width="50%">
 			<h3>AI Mock Interview Platform</h3>
 			<p>Voice-led interview practice with structured AI feedback.</p>
@@ -101,6 +129,8 @@ const mayur = {
 				<li>AI-generated feedback summaries</li>
 			</ul>
 		</td>
+	</tr>
+	<tr>
 		<td width="50%">
 			<h3>AI-Powered Resume Analyzer</h3>
 			<p>Resume evaluation experience with practical improvement signals.</p>
@@ -111,8 +141,6 @@ const mayur = {
 				<li>Actionable recommendations</li>
 			</ul>
 		</td>
-	</tr>
-	<tr>
 		<td width="50%">
 			<h3>Loom Clone</h3>
 			<p>Full-stack video sharing platform for recording and hosting content.</p>
@@ -123,6 +151,8 @@ const mayur = {
 				<li>Cloud media delivery</li>
 			</ul>
 		</td>
+	</tr>
+	<tr>
 		<td width="50%">
 			<h3>Evently</h3>
 			<p>Event management platform with booking, auth, and payments.</p>
@@ -133,8 +163,6 @@ const mayur = {
 				<li>Stripe payment workflows</li>
 			</ul>
 		</td>
-	</tr>
-	<tr>
 		<td width="50%">
 			<h3>Converso</h3>
 			<p>LMS SaaS concept powered by Supabase and AI voice interactions.</p>
@@ -145,6 +173,8 @@ const mayur = {
 				<li>Database-backed SaaS state</li>
 			</ul>
 		</td>
+	</tr>
+	<tr>
 		<td width="50%">
 			<h3>Carepulse</h3>
 			<p>Healthcare platform for appointment scheduling and patient workflows.</p>
@@ -155,8 +185,6 @@ const mayur = {
 				<li>Reliable form handling</li>
 			</ul>
 		</td>
-	</tr>
-	<tr>
 		<td width="50%">
 			<h3>Roomify</h3>
 			<p>AI architectural visualization from 2D concepts to 3D previews.</p>
@@ -167,6 +195,8 @@ const mayur = {
 				<li>Interactive design previews</li>
 			</ul>
 		</td>
+	</tr>
+	<tr>
 		<td width="50%">
 			<h3>Tourvisto</h3>
 			<p>Travel dashboard enhanced with Gemini AI recommendations.</p>
@@ -177,6 +207,7 @@ const mayur = {
 				<li>Modern routing architecture</li>
 			</ul>
 		</td>
+		<td width="50%"></td>
 	</tr>
 </table>
 
@@ -229,7 +260,7 @@ const mayur = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2400&pause=650&color=FFE66D&center=true&vCenter=true&width=850&lines=Frontend+systems+with+motion;AI+voice+agents+and+evaluations;SaaS+auth%2C+payments%2C+dashboards;Cloud+delivery+that+scales" alt="Animated current focus" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2400&pause=650&color=FFE66D&center=true&vCenter=true&width=850&lines=Frontend+systems+with+motion;AI+voice+agents+and+evaluations;Security+tooling+that+fits+CI+pipelines;SaaS+auth%2C+payments%2C+dashboards;Cloud+delivery+that+scales" alt="Animated current focus" width="100%" />
 
 </div>
 
@@ -246,6 +277,11 @@ mindmap
 			Gemini AI
 			Resume Analysis
 			Voice Agents
+		Developer Tooling
+			KONTROL
+			Docker security
+			GitHub Actions
+			SARIF reporting
 		SaaS Systems
 			Authentication
 			Payments
@@ -253,6 +289,7 @@ mindmap
 			Video Processing
 		Cloud Delivery
 			Vercel
+			Render
 			Bunny.net
 			Arcjet
 			Ansible
@@ -264,7 +301,7 @@ mindmap
 
 <div align="center">
 
-I am interested in full-stack products, AI-enabled workflows, SaaS platforms, and clean developer-friendly systems.
+I am interested in full-stack products, AI-enabled workflows, SaaS platforms, developer security tooling, and clean developer-friendly systems.
 
 <br />
 <br />

@@ -12,7 +12,7 @@ I create polished web platforms that connect beautiful frontends, reliable backe
 	<a href="https://github.com/mayurbagade456?tab=repositories">
 		<img src="https://img.shields.io/badge/View%20Projects-0B1117?style=for-the-badge&logo=github&logoColor=white" alt="View projects" />
 	</a>
-	<a href="https://www.linkedin.com/in/mayurbagade456">
+	<a href="https://www.linkedin.com/in/mayur-here">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 	<a href="mailto:mayurbagade456@gmail.com">
